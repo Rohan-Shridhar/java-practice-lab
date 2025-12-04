@@ -1,4 +1,3 @@
-package Arrays.src;
 import java.util.Scanner;
 public class Merge_arrays {
     public static void main(String[] args){

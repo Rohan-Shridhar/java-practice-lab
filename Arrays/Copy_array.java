@@ -1,4 +1,3 @@
-package Arrays.src;
 import java.util.Scanner;
 public class Copy_array {
     public static void main(String[] args){

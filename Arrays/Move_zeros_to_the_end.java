@@ -1,4 +1,3 @@
-package Arrays.src;
 import java.util.Scanner;
 public class Move_zeros_to_the_end {
     public static void main(String[] args){

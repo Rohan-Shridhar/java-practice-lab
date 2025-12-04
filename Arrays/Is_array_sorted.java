@@ -1,4 +1,3 @@
-package Arrays.src;
 import java.util.Scanner;
 public class Is_array_sorted {
     public static Scanner sc = new Scanner(System.in);

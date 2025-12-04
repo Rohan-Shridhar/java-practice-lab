@@ -1,4 +1,3 @@
-package Arrays.src;
 
 import java.util.Scanner;
 public class Average_of_elements {

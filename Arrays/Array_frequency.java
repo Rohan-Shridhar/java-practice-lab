@@ -1,4 +1,4 @@
-package Arrays.src;
+
 import java.util.Scanner;
 public class Array_frequency {
     public static void main(String[] args){

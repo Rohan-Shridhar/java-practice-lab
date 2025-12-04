@@ -1,4 +1,3 @@
-package Arrays.src;
 import java.util.Scanner;
 public class Count_even_and_odd_num {
     public static void main(String[] args){

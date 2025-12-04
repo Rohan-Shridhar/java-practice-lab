@@ -1,4 +1,3 @@
-package Arrays.src;
 
 import java.util.Scanner;
 
@@ -8,6 +7,7 @@ public class Input_Output {
             int[] arr=new int[100];
             System.out.println("Enetr the number of elements");
             int n=sc.nextInt();
+            System.out.println("Enter the elements:");
             for(int i=0;i<n;i++){
                 arr[i]=sc.nextInt();
             }

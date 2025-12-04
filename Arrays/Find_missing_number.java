@@ -1,4 +1,3 @@
-package Arrays.src;
 import java.util.Scanner;
 public class Find_missing_number {
     public static void main(String[] args){
