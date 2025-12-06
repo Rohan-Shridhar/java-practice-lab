@@ -1,4 +1,3 @@
-package Arrays.src;
 import java.util.Scanner;
 public class Remove_duplicates {
     public static void main(String[] args){

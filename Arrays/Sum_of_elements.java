@@ -1,4 +1,3 @@
-package Arrays.src;
 import java.util.Scanner;
 public class Sum_of_elements {
     public static void main(String[] args){

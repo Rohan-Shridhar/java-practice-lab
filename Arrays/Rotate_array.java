@@ -1,4 +1,3 @@
-package Arrays.src;
 import java.util.Scanner;
 public class Rotate_array {
     public static Scanner sc = new Scanner(System.in);
