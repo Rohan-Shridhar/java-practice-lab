@@ -1,4 +1,5 @@
 class BMS extends Thread{
+    @Override
     public void run(){
         while (true) { 
             System.out.println("BMS College of Engineering");

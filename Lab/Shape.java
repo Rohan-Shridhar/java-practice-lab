@@ -16,25 +16,25 @@ public abstract class Shape {
 }
 class Rectangle extends Shape{
     void printArea(){
-        System.out.print("Enter length: ");
+        System.out.print("Enter length of rectangle: ");
         super.a=sc.nextInt();
-        System.out.print("Enter breadth: ");
+        System.out.print("Enter breadth of rectangle: ");
         super.b=sc.nextInt();
         System.out.println("Area of Rectangle: "+(a*b));
     }
 }
 class Triangle extends Shape{
     void printArea(){
-        System.out.print("Enter base: ");
+        System.out.print("Enter base of Triangle: ");
         super.a=sc.nextInt();
-        System.out.print("Enter height: ");
+        System.out.print("Enter height of Triangle: ");
         super.b=sc.nextInt();
         System.out.println("Area of Triangle: "+(0.5*a*b));
     }
 }
 class Circle extends Shape{
     void printArea(){
-        System.out.print("Enter radius: ");
+        System.out.print("Enter radius of Circle: ");
         super.a=sc.nextInt();
         System.out.println("Area of Circle: "+(3.14*a*a));
     }
