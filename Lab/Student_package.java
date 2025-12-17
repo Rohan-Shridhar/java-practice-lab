@@ -16,8 +16,8 @@ public class Student_package {
             I[i] = new Internals();
             E[i] = new Externals();
             System.out.print("Enter name: ");
-            P[i].name = sc.nextLine();
             sc.nextLine();
+            P[i].name = sc.nextLine();
             System.out.print("Enter USN: ");
             P[i].usn = sc.nextLine();
             System.out.print("Enter semester: ");
