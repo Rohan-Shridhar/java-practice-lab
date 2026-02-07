@@ -6,5 +6,7 @@
     <li>📚Arrays</li>
     <li>🔤Strings</li>
     <li>🗑️Exception Handling</li>
+    <li>🧵Multithreading</li>
+    <li>🧰AWT</li>
   </ul>
 </p>
